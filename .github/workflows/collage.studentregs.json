@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "64ae61bb26250b91ba620717"
+  },
+  "studentid": "45656",
+  "userName": "parthpatel",
+  "firstName": "parth",
+  "lastName": "patel",
+  "email": "pm@gmail.com",
+  "phone": 123456789,
+  "password": "$2a$10$Udd0ucTXVrAebDDrMkxXxOQmDsJ.dF9xlABTlJSZE/QLdg91BO6aO",
+  "documents": []
+},
+{
+  "_id": {
+    "$oid": "64ae620326250b91ba62071b"
+  },
+  "studentid": "456",
+  "userName": "patelm",
+  "firstName": "patel",
+  "lastName": "m",
+  "email": "hm@gmail.com",
+  "phone": 121597539,
+  "password": "$2a$10$5x2IiWgAiZL.NIP0Z4p6U.tZFH1CgB8JwK4xn/NOyrIKYzFfSStv6",
+  "documents": []
+},
+{
+  "_id": {
+    "$oid": "64ae622526250b91ba62071e"
+  },
+  "studentid": "46",
+  "userName": "ptelmk",
+  "firstName": "ptel",
+  "lastName": "mk",
+  "email": "hmk@gmail.com",
+  "phone": 1214597539,
+  "password": "$2a$10$CRzSoL/9B4XEN8OWc85pEu3.jFWL6nynRvcNr0a5rbDDRBxKOit7G",
+  "documents": []
+},
+{
+  "_id": {
+    "$oid": "64ae63ef5b48e73acfdd4d9c"
+  },
+  "studentid": "85",
+  "userName": "aviraj",
+  "firstName": "avi",
+  "lastName": "raj",
+  "email": "aj@gmail.com",
+  "phone": {
+    "$numberLong": "7412589630"
+  },
+  "password": "$2a$10$IuWq9A0D5aAmQNxMESSGGu.Iw4RDw3IrrE4XampYNss5onDFISTiy",
+  "documents": []
+},
+{
+  "_id": {
+    "$oid": "64ae6d3276707c321242f679"
+  },
+  "studentid": "07",
+  "userName": "bansidesai",
+  "firstName": "Bansi",
+  "lastName": "Desai",
+  "email": "bansi@gmail.com",
+  "phone": {
+    "$numberLong": "7412589638"
+  },
+  "password": "$2a$10$DDFRM9rUEqfnsUTSpMjLr.rp7R8r2lXwL7jOCrZ9Y2fLNDizjDRL.",
+  "documents": []
+},
+{
+  "_id": {
+    "$oid": "64ae767082cc005cad2dac3c"
+  },
+  "studentid": "07",
+  "userName": "mukeshpatel",
+  "firstName": "mukesh",
+  "lastName": "patel",
+  "email": "mm@gmail.com",
+  "phone": {
+    "$numberLong": "8522589638"
+  },
+  "password": "$2a$10$3nin229l9zhcTPuL4x/zpe0DntFd2bfieVN4tDXO0MQWRQyWkkFFa",
+  "documents": []
+},
+{
+  "_id": {
+    "$oid": "64ae893b298d806a94cd04bb"
+  },
+  "studentid": "027",
+  "userName": "pmukeshpmpatel",
+  "firstName": "Pmukesh",
+  "lastName": "pMPatel",
+  "email": "mkm@gmail.com",
+  "phone": {
+    "$numberLong": "5632589638"
+  },
+  "password": "$2a$10$9F90nkosI6jMi0HTine95O5Nk7iCXO3aIs529V6jtBSWCymHJIzBy",
+  "documents": []
+},
+{
+  "_id": {
+    "$oid": "64ae90f3cc42267bdf513972"
+  },
+  "studentid": "0227",
+  "userName": "pmkukeshpmpjatel",
+  "firstName": "Pmkukesh",
+  "lastName": "pMPjatel",
+  "email": "mkhm@gmail.com",
+  "phone": {
+    "$numberLong": "5632855638"
+  },
+  "password": "$2a$10$TzNwpAd.phwOCD/XPpBvROIuuez24V6Y3zE/c2DW36OTdg/i6etb6",
+  "documents": []
+},
+{
+  "_id": {
+    "$oid": "64ae9181d0148352174905d0"
+  },
+  "studentid": "022",
+  "userName": "pueshpael",
+  "firstName": "Puesh",
+  "lastName": "pael",
+  "email": "mu@gmail.com",
+  "phone": 52855638,
+  "password": "$2a$10$cuZJG3heSla8cIBOO1eFMuZ7me4Vkr/mYc7Rqo05vT.cpdvcTQgIu",
+  "documents": []
+},
+{
+  "_id": {
+    "$oid": "64af7ffb86a3ea5ef43a1831"
+  },
+  "studentid": "010",
+  "userName": "harshilpatel",
+  "firstName": "harshil",
+  "lastName": "patel",
+  "email": "harshil@gmail.com",
+  "phone": {
+    "$numberLong": "7567557080"
+  },
+  "password": "$2a$10$a14s0ojtXb1ZE76yRlMvNOMi9/m5kg3E.r5PgoTBKUZLWVn8HfOQC",
+  "documents": [],
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImhhcnNoaWxAZ21haWwuY29tIiwicGhvbmUiOiJoYXJzaGlscGF0ZWwiLCJpYXQiOjE2ODkyMjMxNjMsImV4cCI6MTY4OTMwOTU2M30.gV8muKtfiaqIBAoUALCJaxj_QhhSZs_k9ZP79nC9LcA"
+}]
